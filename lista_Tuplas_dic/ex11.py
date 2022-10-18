@@ -1,0 +1,1 @@
+#Faça um programa que simule um lançamento de dados. Lance o dado 100 vezes e armazene os resultados em uma lista. Depois, mostre quantas vezes cada valor foi conseguido. Dica: use uma lista de contadores(1-6) e uma função para gerar números aleatórios, simulando os lançamentos dos dados.
